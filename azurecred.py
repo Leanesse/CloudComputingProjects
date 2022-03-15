@@ -1,0 +1,5 @@
+AZDBSERVER = 'Azure_Server'
+AZDBNAME = 'DB_Name'
+AZDBUSER = 'User'
+AZDBPW = 'Password'
+AZDBDRIVER = '{ODBC Driver 17 for SQL Server}'
